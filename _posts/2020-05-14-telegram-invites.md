@@ -1,7 +1,7 @@
 ---
 title: "Telegram exportChatInviteLink"
-layout: default
+layout: blog
 date: 2020-05-14
 ---
 
-# Telegram exportChatInviteLink
+Telegram exportChatInviteLink is buggy.
