@@ -1,6 +1,6 @@
 ---
 title: "User.js Updater"
-layout: default
+layout: work
 ---
 
 User.js Updater for Android
