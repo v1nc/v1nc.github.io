@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "highlight.js.min.css";
+      body{
+        background: #1f1f1f;
+        color: #c0b18b;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      a{
+        color: #c0b18b;
+      }
+      h3, h2, h1, h4{
+        color: #c0b18b;
+      }
+      a:link {
+        color: #777777;
+      }
+      a:visited {
+        color: #777777;
+      }
+      a:hover {
+        color: #777777;
+      }
+      a:active {
+        color: #777777;
+      }
