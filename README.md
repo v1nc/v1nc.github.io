@@ -9,7 +9,7 @@ _don't be the best, be the only_
 </ul>
 
 
-<article class="forecast">
+<article class="blog-list">
     <h2>blog</h2>
     {% for post in site.posts %}
 	    <article class="blog-post" href="https://v1nc.github.io{{ post.url }}">
