@@ -1,6 +1,7 @@
 ---
 title: "User.js Updater"
 layout: work
+repo: "https://github.com/v1nc/user.js-updater"
 ---
 
 update your user.js on android without trouble

@@ -1,6 +1,7 @@
 ---
 title: "Telegram ButterBot"
 layout: work
+repo: "https://github.com/v1nc/butter_bot"
 ---
 I manage your telegram groups. I use [TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) for captchas.
 
