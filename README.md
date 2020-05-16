@@ -13,8 +13,9 @@ _don't be the best, be the only_
     <h2>blog</h2>
     {% for post in site.posts %}
 	    <article class="blog-post">
-	        <h2><a href="https://v1nc.github.io{{ post.url }}">{{ post.date | date_to_string }}</a></h2>
-	        <p><a href="https://v1nc.github.io{{ post.url }}">{{ post.title }}</a></p>
+	        <h2><a href="https://v1nc.github.io{{ post.url }}">{{ post.title }}</a></h2>
+	        <p class="date"><a href="https://v1nc.github.io{{ post.url }}">{{ post.date | date_to_string }}</a></p>
+	        <p><a href="https://v1nc.github.io{{ post.url }}">{{ post.subtitle }}</a></p>
 	    </article>
     {% endfor %}
 </article>
