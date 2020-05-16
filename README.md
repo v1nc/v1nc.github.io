@@ -1,7 +1,6 @@
 # v1nc
 _don't be the best, be the only_
 
-## work:
 <article class="blog-list">
     <h2>work</h2>
     {% for item in site.data.work.docs%}
