@@ -14,7 +14,7 @@ _don't be the best, be the only_
     {% for post in site.posts %}
 	    <article class="blog-post" href="https://v1nc.github.io{{ post.url }}">
 	        <h2 href="https://v1nc.github.io{{ post.url }}">{{ post.date | date_to_string }}</h2>
-	        <p href="https://v1nc.github.io{{ post.url }}">{{ post.title }}">{{ post.title }}</p>
+	        <p href="https://v1nc.github.io{{ post.url }}">{{ post.title }}</p>
 	    </article>
     {% endfor %}
 </article>
