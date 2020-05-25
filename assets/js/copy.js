@@ -1,7 +1,16 @@
 function copy(id) {
-	console.log("copy",id);
-	var copyText = document.getElementsByName(id)[0];
-	copyText.select();
-	copyText.setSelectionRange(0, 9999999999);
-	document.execCommand("copy");
+
+  var emailLink = document.querySelector('.'+id);  
+  var range = document.createRange();  
+  range.selectNode(emailLink);  
+  window.getSelection().addRange(range);  
+
+  try {  
+    var successful = document.execCommand('copy');  
+    var msg = successful ? 'successful' : 'unsuccessful';  
+    console.log('Copy email command was ' + msg);  
+  } catch(err) {  
+    console.log('Oops, unable to copy');  
+  }  
+  window.getSelection().removeAllRanges();  
 } 
