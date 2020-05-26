@@ -6,6 +6,13 @@ date: 2020-05-25
 permalink: /blog/:year/:month/:day/:title:output_ext
 ---
 
+## Animals:
+
+<pre class="ruck"><code class="animals">Aal, Adler, Affe, Alligator, Ameise, Amsel, Antilope, Bär, Biber, Biene, Büffel, Chamäleon, Dachs, Delfin, Dromedar, Eichhörnchen, Eidechse, Eisbär, Elch, Elefant, Ente, Erdmännchen, Esel, Eule, Fasan, Faultier, Fisch, Flamingo, Fledermaus, Fliege, Flughund, Frosch, Fuchs, Gans, Gecko, Geier, Gepard, Giraffe, Gorilla, Hahn, Hai, Hamster, Hase, Heuschrecke, Hirsch, Hornisse, Huhn, Hummel, Hummer, Hund, Igel, Iltis, Jaguar, Käfer, Kakadu, Kamel, Känguru, Kaninchen, Karpfen, Katze, Koala, Krake, Krebs, Krokodil, Kuckuck, Kuh, Lama, Leopard, Libelle, Löwe, Marder, Maulwurf, Maus, Mücke, Mungo, Murmeltier, Nashorn, Nilpferd, Orang-Utan, Orca, Panda, Papagei, Pavian, Pfau, Pferd, Pinguin, Piranha, Pony, Qualle, Ratte, Regenwurm, Reh, Robbe, Schaf, Schildkröte, Schimpanse, Schlange, Schmetterling, Schnecke, Schwein, Seelöwe, Seepferdchen, Skorpion, Spinne, Storch, Strauß, Taube, Tiger, Tintenfisch, Wal, Walross, Waschbär, Wespe, Wildschwein, Wolf, Zebra
+</code></pre>
+
+<button class="ruck" id="animals" onclick="copy(this.id)">Copy</button>
+
 ## Pokemon:
 
 ### 1.Gen
