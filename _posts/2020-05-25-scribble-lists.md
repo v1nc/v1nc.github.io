@@ -8,7 +8,7 @@ permalink: /blog/:year/:month/:day/:title:output_ext
 
 <h2>Capitals: <small>[<a href="https://online.seterra.com/de/vgp/3225" target="_blank">src</a>]</small></h2>
 
-<pre class="r1"><code class="capitals">Amsterdam, Andorra la Vella, Athen, Belgrad, Berlin, Bern, Bratislava, Brüssel, Budapest, Bukarest, Dublin, Helsinki, Kiew, Kischinau, Kopenhagen, Lissabon, Ljubljana, London, Luxemburg, Madrid, Minsk, Monaco, Moskau, Nikosia, Oslo, Paris, Podgorica, Prag, Priština, Reykjavík, Riga, Rom, San Marino, Sarajevo, Skopje, Sofia, Stockholm, Tallinn, Tirana, Vaduz, Valletta, Vilnius, Warschau, Wien, Zagreb 
+<pre class="r1"><code class="capitals">Amsterdam, Athen, Belgrad, Berlin, Bern, Bratislava, Brüssel, Budapest, Bukarest, Dublin, Helsinki, Kiew, Kischinau, Kopenhagen, Lissabon, Ljubljana, London, Luxemburg, Madrid, Minsk, Moskau, Oslo, Paris, Podgorica, Prag, Priština, Reykjavík, Riga, Rom, Sarajevo, Skopje, Sofia, Stockholm, Tallinn, Tirana, Vilnius, Warschau, Wien, Zagreb 
 </code></pre>
 
 <button class="r1" id="capitals" onclick="copy(this.id)">Copy</button>
