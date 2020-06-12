@@ -1,6 +1,6 @@
 ---
 title: "Telegram message to HTML"
-subtitle: "A handy function""
+subtitle: "A handy function"
 layout: blog
 date: 2020-06-12
 permalink: /blog/:year/:month/:day/:title:output_ext
