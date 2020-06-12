@@ -19,4 +19,4 @@ If you did not download the launcher from a "trusted source", a dialog tells you
 
 Luckily Xiaomi did not remove the normal activity.
 You can open it with the following command
-<code>am start -n com.android.permissioncontroller/com.android.packageinstaller.role.ui.HomeSettingsActivity --user 0</code>
+<pre><code>am start -n com.android.permissioncontroller/com.android.packageinstaller.role.ui.HomeSettingsActivity --user 0</code></pre>
