@@ -1,6 +1,5 @@
 ---
 title: "TEL"
-subtitle: "Termux Expert Launcher"
 layout: work
 repo: "https://github.com/t-e-l/"
 ---
