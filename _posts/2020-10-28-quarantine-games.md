@@ -12,10 +12,8 @@ _draw and guessing game_
  - [gartic.io](https://gartic.io/) (predefined topics)
  - word lists: [link](https://v1nc.github.io/blog/2020/05/25/scribble-lists.html)
 
- <h2>kosmi.io</h2>
+ <h2><a href="https://kosmi.io">kosmi.io</a></h2>
  _webcam hangout, card games, emulators_
- - [link](https://kosmi.io)
-
 
 <h2>mobile games</h2>
  _play on your phone for free_
