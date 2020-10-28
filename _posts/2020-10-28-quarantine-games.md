@@ -15,6 +15,10 @@ _draw and guessing game_
  <h2><a href="https://kosmi.io">kosmi.io</a></h2>
  _webcam hangout, card games, emulators_
 
+<h2><a href="https://www.freeboardgames.org">freeboardgames.org</a></h2>
+ - codenames and other games
+ - [github](https://github.com/freeboardgames/FreeBoardGames.org)
+
 <h2>mobile games</h2>
  _play on your phone for free_
 - [plato](https://play.google.com/store/apps/details?id=com.plato.android): pool, mini golf, monopoly, etc
