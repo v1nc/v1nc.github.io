@@ -17,7 +17,7 @@ _draw and guessing game_
 
 <h2>mobile games</h2>
  _play on your phone for free_
-- [plato](https://play.google.com/store/apps/details?id=com.plato.android): pool, mini golf, monopoly, etc)
+- [plato](https://play.google.com/store/apps/details?id=com.plato.android): pool, mini golf, monopoly, etc
 - [psych](https://play.google.com/store/apps/details?id=com.wb.goog.ellen.psych): trick your friends, like [Fakin it](https://www.jackboxgames.com/fakin-it/)
 - [among us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=de&gl=US): catch the imposter(s)
 
