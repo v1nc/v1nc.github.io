@@ -6,18 +6,19 @@ date: 2020-10-28
 permalink: /blog/:year/:month/:day/:title:output_ext
 ---
 
-##skribbl
-__draw and guessing game__
+<h2>skribbl</h2>
+_draw and guessing game_
  - [skribbl.io](https://skribbl.io/)
  - [gartic.io](https://gartic.io/) (predefined topics)
  - word lists: [link](https://v1nc.github.io/blog/2020/05/25/scribble-lists.html)
 
- ## [kosmi.io](https://kosmi.io)
- __webcam hangout, card games, emulators__
+ <h2>kosmi.io</h2>
+ _webcam hangout, card games, emulators_
+ - [link](https://kosmi.io)
 
 
- ## phone games
- __play on your phone for free__
+<h2>mobile games</h2>
+ _play on your phone for free_
 - [plato](https://play.google.com/store/apps/details?id=com.plato.android): pool, mini golf, monopoly, etc)
 - [psych](https://play.google.com/store/apps/details?id=com.wb.goog.ellen.psych): trick your friends, like [Fakin it](https://www.jackboxgames.com/fakin-it/)
 - [among us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=de&gl=US): catch the imposter(s)
