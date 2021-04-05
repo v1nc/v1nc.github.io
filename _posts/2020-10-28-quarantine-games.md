@@ -10,6 +10,7 @@ permalink: /blog/:year/:month/:day/:title:output_ext
 _draw and guessing game_
  - [skribbl.io](https://skribbl.io/)
  - [gartic.io](https://gartic.io/) (predefined topics)
+ - [garticphone](https://garticphone.com) (more gamemodes)
  - word lists: [link](https://v1nc.github.io/blog/2020/05/25/scribble-lists.html)
 
  <h2><a href="https://kosmi.io">kosmi.io</a></h2>
